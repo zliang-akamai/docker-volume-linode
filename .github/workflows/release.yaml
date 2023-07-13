@@ -1,4 +1,4 @@
-name: OCI Image Publish
+name: Docker Plugin Publish
 on:
   workflow_dispatch: null
   release:
